@@ -1,0 +1,4 @@
+1.Intialize  The usart 2  and set it to asynchronouse mode and set the baud rate acoording to your needs
+2.Intialzie tim2 channel set it to encoder mode and in parameter settings then scroll down and set the encoder mode to encoder mode
+T|1 and T|2.  
+3.Go to GPIO settings and then press control and select the timer pins and then set the gpio mode as input and then set the gpio pull up
